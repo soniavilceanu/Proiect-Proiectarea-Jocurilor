@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Cristi\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Cristi\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Roll a ball.785175184.00" t="ExcludeRecursive" />
+    <e p="F:\Facultate\ANUL3\Semestrul I\UNITY\Roll a ball" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Camera_Controller.cs" t="Include" />
+        <e p="EasyGrassSubstance" t="Include">
+          <e p="Documentation.txt" t="Include" />
+          <e p="Example Scene" t="Include">
+            <e p="ObjectRotation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="EnemyAttack.cs" t="Include" />
+          <e p="EnemyMovement.cs" t="Include" />
+          <e p="Player_Controller.cs" t="Include" />
+          <e p="Rotator.cs" t="Include" />
+          <e p="Sliding_Door.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Roll a ball.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
