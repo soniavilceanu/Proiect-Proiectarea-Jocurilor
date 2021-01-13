@@ -1,13 +1,14 @@
-#Survival Maze
-###3D Top-Down Shooter in Unity3D
+# Survival Maze
 
-##Membrii echipei
+### 3D Top-Down Shooter in Unity3D
+
+## Membrii echipei
 -	Plamadeala Cristian
 -	Patroescu Luiza
 -	Vilceanu Sonia
 -	Marila Mircea
 
-##Ce presupune jocul
+## Ce presupune jocul
 
 **SCOP**: Playerul se afla intr-un labirint plin cu inamici. Scopul acestuia esta sa supravietuiasca, sa termine toate nivelele si sa adune un scor cat mai mare.
 
@@ -15,7 +16,7 @@
 
 **DIFICULTATEA**: Jucatorul poate sa aleaga intre doua dificultati. Viata player-ului, a inamicilor si attack damage-ul dat si luat este influentat de dificultatea aleasa: Easy sau Hard.
 
-##Impartirea task-urilor intre coechipieri si comunicarea
+## Impartirea task-urilor intre coechipieri si comunicarea
 
 Am structurat proiectul in 4 parti principale: player-ul, harta, enemy AI si meniu. Ordinea in care au fost abordate task-urile a fost aleasa atat in functie de structura necesara pentru conceperea logica a jocului cat si de progresul coechipierilor. Task-urile au fost mai apoi redistribuite in functie de timpul si cunostiintele fiecaruia.
 
